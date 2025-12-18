@@ -51,6 +51,8 @@ These screenshots represent the **final visual output of the frontend design**.
 
 <img width="420" height="845" alt="Screenshot 2025-12-19 001351" src="https://github.com/user-attachments/assets/a51c3741-84f9-49ce-83ac-b0722e2d0fe0" />
 
+<img width="410" height="843" alt="Screenshot 2025-12-19 001755" src="https://github.com/user-attachments/assets/bd1ad28b-c630-45d0-aa43-5b7d8bf3bc14" />
+
 
 ```
 
