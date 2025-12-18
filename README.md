@@ -4,101 +4,120 @@
 
 # 🧠 Unspoken Health – Frontend UI/UX Prototype
 
-**Unspoken Health** is a **frontend-only healthcare application prototype** designed to support **mental and emotional well-being**.  
-This project focuses entirely on **UI/UX design**, user flow, and interaction, and does **not include backend or database functionality**.
-
-The complete design and interaction flow is created using **Figma**.
+**Unspoken Health** is a **frontend-only healthcare application prototype** focused on **mental and emotional well-being**.  
+This project showcases **complete UI/UX design and user flow**, created entirely using **Figma**, with no backend or database integration.
 
 ---
 
 ## 📌 Project Overview
 
-Unspoken Health aims to provide a **safe, calm, and user-friendly digital space** where users can explore mental health support features through an intuitive interface.
-
-This project demonstrates:
-- Thoughtful UI design  
-- Clear navigation flow  
-- Healthcare-focused UX decisions  
-- High-fidelity prototyping  
+The goal of Unspoken Health is to provide a **safe, calm, and user-friendly digital interface** for users seeking mental health support.  
+The project emphasizes **design thinking, accessibility, and intuitive navigation**.
 
 ---
 
 ## 🎯 Project Scope
 
 - ✅ Frontend only  
-- ❌ No backend integration  
+- ❌ No backend  
 - ❌ No database  
-- 🎨 Complete UI/UX prototype  
-- 🔗 Interactive Figma design  
+- 🎨 High-fidelity UI/UX prototype  
+- 🔗 Fully interactive Figma design  
 
 ---
 
-## 🖌️ Design & Prototype
+## 🖌️ Figma Prototype
 
-The entire application interface and user flow is designed in **Figma**.
+🔗 **Live Prototype Link:**  
+https://www.figma.com/proto/iZo0qUYsrK0vg3MMg7A9av/Unspoken-Health?node-id=101-1804&t=1GPIbe4j7JJhGsW6-1
 
-### 🔗 Figma Prototype Link
-👉 https://www.figma.com/proto/iZo0qUYsrK0vg3MMg7A9av/Unspoken-Health?node-id=101-1804&t=1GPIbe4j7JJhGsW6-1
-
-You can:
-- Navigate through screens  
-- Interact with buttons  
-- Understand the complete user journey  
+You can interact with:
+- Buttons and navigation
+- Screen-to-screen transitions
+- Complete user journey
 
 ---
 
-## 📱 Screens & Flow (Prototype)
+## 📤 Output (UI Screens)
+
+Below are sample outputs of the **Unspoken Health UI prototype**.  
+These screenshots represent the **final visual output of the frontend design**.
+
+### 🔹 Output Screens (Add screenshots here)
+
+<img width="415" height="837" alt="Screenshot 2025-12-19 001327" src="https://github.com/user-attachments/assets/cb446c58-dd7d-46be-9cbc-196d8e266a16" />
+
+<img width="409" height="842" alt="Screenshot 2025-12-19 001339" src="https://github.com/user-attachments/assets/97810663-0092-4485-8ad0-15c4fa31d7d2" />
+
+<img width="420" height="845" alt="Screenshot 2025-12-19 001351" src="https://github.com/user-attachments/assets/a51c3741-84f9-49ce-83ac-b0722e2d0fe0" />
+
+
+```
+
+📂 OUTPUT/
+├── welcome_screen.png
+├── onboarding_screen.png
+├── home_dashboard.png
+├── feature_screen.png
+├── profile_screen.png
+└── navigation_flow.png
+
+```
+
+📌 **Tip:**
+Export screens from Figma → save as PNG/JPG → upload inside an `OUTPUT` folder.
+
+---
+
+## 📱 Screens & User Flow
 
 The prototype includes:
-- Welcome & onboarding screens  
-- User navigation flow  
-- Health-focused UI layouts  
-- Clean typography and color usage  
-- Structured screen-to-screen transitions  
+
+* Welcome & onboarding screens
+* Clean and minimal UI layouts
+* Mental health–focused color palette
+* Smooth navigation flow
+* Clearly structured screen hierarchy
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Design Tool:** Figma  
-- **Project Type:** Frontend UI/UX Prototype  
-- **Platform:** Web / App Design  
+* **Design Tool:** Figma
+* **Project Type:** Frontend UI/UX Prototype
+* **Platform:** Web / Mobile App Design
 
 ---
 
-## 🎓 Academic / Learning Purpose
+## 🎓 Academic / Portfolio Use
 
 This project is suitable for:
-- UI/UX design practice  
-- Frontend concept demonstration  
-- Academic submission  
-- Portfolio showcase  
 
-It highlights skills in:
-- Interface design  
-- User experience planning  
-- Wireframing & prototyping  
-- Design thinking  
+* UI/UX portfolio showcase
+* Academic submissions
+* Frontend concept demonstration
+* Design case studies
 
 ---
 
 ## 🔮 Future Enhancements
 
-- Convert prototype into a functional frontend (HTML/CSS/JS or React)  
-- Add backend services and database  
-- Implement authentication and real data handling  
-- Integrate accessibility and personalization features  
+* Convert design into functional frontend (HTML/CSS/JS or React)
+* Add backend services and database
+* Integrate authentication and real-time data
+* Improve accessibility features
 
 ---
 
 ## 🤝 Contact Information
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/shubhrat-chaursiya-819672354/  
-- 📧 **Email:** shubhratchaursiya2005@gmail.com  
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/shubhrat-chaursiya-819672354/](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)
+* 📧 **Email:** [shubhratchaursiya2005@gmail.com](mailto:shubhratchaursiya2005@gmail.com)
 
 ---
 
 ## ⭐ Support
 
-If you like this project or find the design useful, please consider giving the repository a ⭐.
+If you like this project or find the design helpful, please consider giving the repository a ⭐.
+
 ```
